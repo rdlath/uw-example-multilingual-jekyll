@@ -8,4 +8,4 @@ categories: it posts
 
 ## Esempio 3
 
-L'esempio 3 è ancora in costruzione. Un altro tentativo.
+L'esempio 3 è ancora in costruzione. Un altro tentativo. 
