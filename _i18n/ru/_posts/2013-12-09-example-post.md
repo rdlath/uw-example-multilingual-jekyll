@@ -8,10 +8,10 @@ categories: ru posts
 
 ## Представляем Flex, тему для Jekyll
 
-Flex - это минималистичная отзывчивая тема, созданная на основе сайта [The Development](https://jekyllthemes.io/theme/flex).
+Flex - это минималистичная отзывчивая тема, созданная на основе сайта [The Development](https://jekyllthemes.io/theme/flex). Еще одно предложение...
 
 ## Открытые ресурсы на GitHub
 
-Flex находится в открытом доступе на GitHub и лицензируется по [лицензии MIT](https://opensource.org/licenses/MIT). Не стесняйтесь вносить в него свой вклад в любое время!
+Flex находится в открытом доступе на GitHub и лицензируется по [лицензии MIT](https://opensource.org/licenses/MIT). Не стесняйтесь вносить свой вклад в этот проект в любое время!
 
 Спасибо, что читаете. Это было очень приятно.
