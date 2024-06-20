@@ -16,4 +16,4 @@ Here is my updated post 3.
 
 ### Second chapter
 
-Learning to write.
+Learning to write better.
