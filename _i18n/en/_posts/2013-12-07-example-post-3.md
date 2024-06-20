@@ -13,3 +13,7 @@ Example 3 is still under construction. Another try.
 ### The next chapter
 
 Here is my updated post 3.
+
+### Post addition by RDL
+
+Let's make another comment in this post!
