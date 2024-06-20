@@ -8,7 +8,7 @@ categories: en posts
 
 ## Example 3
 
-Example 3 is still under construction. Another try. This is an edit by Ronda.
+Example 3 is still under construction. Another try. 
 
 ### The next chapter
 
