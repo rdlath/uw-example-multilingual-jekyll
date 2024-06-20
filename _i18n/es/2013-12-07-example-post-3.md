@@ -8,4 +8,4 @@ categories: es posts
 
 ## Ejemplo 3
 
-El ejemplo 3 aún está en construcción. Otra vez.
+El ejemplo 3 aún está en construcción. Otra vez. Esta ejemplo es para Ronda.
